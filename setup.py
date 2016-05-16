@@ -13,7 +13,7 @@ import sys
 
 setuptools.setup(
     name = "Cerealizer",
-    version = "0.8.1",
+    version = "0.9.0",
     license = "Python licence",
     description = "A secure pickle-like module",
     long_description = """A secure pickle-like module.
@@ -28,7 +28,6 @@ and it can be extended to support C-defined type.""",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: Python Software Foundation License",
         "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 3",
         "Topic :: Security",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
